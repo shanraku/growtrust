@@ -9,6 +9,7 @@ GrowTrust is an open-source prototype for a transparent marketplace focused on c
 - A marketplace for content strategy, creator discovery, profile optimization, and other legitimate marketing services.
 - Customer dashboard preview with sample order milestones and support flow.
 - Seller dashboard preview to draft service listings locally.
+- Trust Centre preview for seller verification requests, 7-day/30-day retention checkpoints, and a fair dispute checklist (all local demo data).
 - Clear package scopes, deliverables, timelines, and exclusions.
 - Order milestones and evidence-based progress updates.
 - Retention reporting where meaningful metrics are available.
@@ -23,7 +24,7 @@ GrowTrust is an open-source prototype for a transparent marketplace focused on c
 - Real payments and live orders will not be enabled until the backend, security, seller verification, and dispute workflows are ready.
 
 ## Current status
-This repository currently contains a **frontend prototype**. Service prices and timelines shown in the UI are illustrative only. Demo requests are stored locally in the visitor's browser. No payment is collected, no real order is created, and no service delivery is promised.
+This repository currently contains a **frontend prototype**. Service prices and timelines shown in the UI are illustrative only. Demo requests, seller listings, verification requests, and retention checkpoints are stored locally in the visitor's browser. No identity documents are collected, no seller is actually verified, no complaint is submitted, no payment is collected, no real order is created, and no service delivery is promised.
 
 ## Run locally
 Open `index.html` in a modern browser, or serve the folder with any static HTTP server.
