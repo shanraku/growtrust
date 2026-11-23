@@ -10,6 +10,7 @@ GrowTrust is an open-source prototype for a transparent marketplace focused on c
 - Customer dashboard preview with sample order milestones and support flow.
 - Seller dashboard preview to draft service listings locally.
 - Trust Centre preview for seller verification requests, 7-day/30-day retention checkpoints, and a fair dispute checklist (all local demo data).
+- Public admin console preview for reviewing local demo verification requests and disputes; it has no authentication or real authority.
 - Clear package scopes, deliverables, timelines, and exclusions.
 - Order milestones and evidence-based progress updates.
 - Retention reporting where meaningful metrics are available.
