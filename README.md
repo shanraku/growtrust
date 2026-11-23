@@ -7,6 +7,8 @@ GrowTrust is an open-source prototype for a transparent marketplace focused on c
 
 ## What we're building
 - A marketplace for content strategy, creator discovery, profile optimization, and other legitimate marketing services.
+- Customer dashboard preview with sample order milestones and support flow.
+- Seller dashboard preview to draft service listings locally.
 - Clear package scopes, deliverables, timelines, and exclusions.
 - Order milestones and evidence-based progress updates.
 - Retention reporting where meaningful metrics are available.
